@@ -1,6 +1,6 @@
 # JSON::Unmarshal
 
-Make JSON from an Object (the opposite of JSON::Marshal)
+Make an Object from JSON (the opposite of JSON::Marshal)
 
 ## Synopsis
 
